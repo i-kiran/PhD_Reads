@@ -14,4 +14,8 @@ This is a repository for all the interesting articles that are helping me during
 5. Is it clear that there is something novel/exciting/creative about your approach to solving the problem?
 6. Is it clear that your solution works and/or that you’ve learned something of importance?
 7. Does everything you are saying make sense for your audience? Imho, it is better to assume less than more.
-8. Teaser? Are there some obvious next questions?  Have you left the audience wanting to know more? 
+8. Teaser? Are there some obvious next questions?  Have you left the audience wanting to know more?
+
+## Writing Exceptional Papers:
+1. (ML Papers)https://docs.google.com/document/d/16R1E2ExKUCP5SlXWHr-KzbVDx9DBUclra-EbU8IB-iE/edit#heading=h.16t67gkeu9dx
+
